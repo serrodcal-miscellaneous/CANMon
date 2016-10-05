@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsconfig" targetNamespace="http://tempuri.org/dsconfig.xsd" xmlns:mstns="http://tempuri.org/dsconfig.xsd" xmlns="http://tempuri.org/dsconfig.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsconfig" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsconfig" msprop:Generator_DataSetName="dsconfig" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="configuracion" msprop:Generator_UserTableName="configuracion" msprop:Generator_RowDeletedName="configuracionRowDeleted" msprop:Generator_RowChangedName="configuracionRowChanged" msprop:Generator_RowClassName="configuracionRow" msprop:Generator_RowChangingName="configuracionRowChanging" msprop:Generator_RowEvArgName="configuracionRowChangeEvent" msprop:Generator_RowEvHandlerName="configuracionRowChangeEventHandler" msprop:Generator_TableClassName="configuracionDataTable" msprop:Generator_TableVarName="tableconfiguracion" msprop:Generator_RowDeletingName="configuracionRowDeleting" msprop:Generator_TablePropName="configuracion">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="velocidad" msprop:Generator_UserColumnName="velocidad" msprop:Generator_ColumnVarNameInTable="columnvelocidad" msprop:Generator_ColumnPropNameInRow="velocidad" msprop:Generator_ColumnPropNameInTable="velocidadColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tipo" msprop:Generator_UserColumnName="tipo" msprop:Generator_ColumnVarNameInTable="columntipo" msprop:Generator_ColumnPropNameInRow="tipo" msprop:Generator_ColumnPropNameInTable="tipoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:length value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="velocidadPuerto" msprop:Generator_UserColumnName="velocidadPuerto" msprop:Generator_ColumnPropNameInRow="velocidadPuerto" msprop:Generator_ColumnVarNameInTable="columnvelocidadPuerto" msprop:Generator_ColumnPropNameInTable="velocidadPuertoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="nombrePuerto" msprop:Generator_UserColumnName="nombrePuerto" msprop:Generator_ColumnPropNameInRow="nombrePuerto" msprop:Generator_ColumnVarNameInTable="columnnombrePuerto" msprop:Generator_ColumnPropNameInTable="nombrePuertoColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

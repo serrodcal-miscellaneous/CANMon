@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dsconfig xmlns="http://tempuri.org/dsconfig.xsd">
+  <configuracion>
+    <velocidad>1000</velocidad>
+    <tipo>S</tipo>
+    <velocidadPuerto>1000000</velocidadPuerto>
+    <nombrePuerto>COM9</nombrePuerto>
+  </configuracion>
+</dsconfig>

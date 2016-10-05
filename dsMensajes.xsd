@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsMensajes" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsMensajes" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsMensajes" msprop:Generator_DataSetName="dsMensajes" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="mensajes" msprop:Generator_UserTableName="mensajes" msprop:Generator_RowDeletedName="mensajesRowDeleted" msprop:Generator_RowChangedName="mensajesRowChanged" msprop:Generator_RowClassName="mensajesRow" msprop:Generator_RowChangingName="mensajesRowChanging" msprop:Generator_RowEvArgName="mensajesRowChangeEvent" msprop:Generator_RowEvHandlerName="mensajesRowChangeEventHandler" msprop:Generator_TableClassName="mensajesDataTable" msprop:Generator_TableVarName="tablemensajes" msprop:Generator_RowDeletingName="mensajesRowDeleting" msprop:Generator_TablePropName="mensajes">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msprop:Generator_UserColumnName="id" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="datos" msprop:Generator_UserColumnName="datos" msprop:Generator_ColumnVarNameInTable="columndatos" msprop:Generator_ColumnPropNameInRow="datos" msprop:Generator_ColumnPropNameInTable="datosColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="recuento" msprop:Generator_UserColumnName="recuento" msprop:Generator_ColumnPropNameInRow="recuento" msprop:Generator_ColumnVarNameInTable="columnrecuento" msprop:Generator_ColumnPropNameInTable="recuentoColumn" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="id_mostrar" msprop:Generator_UserColumnName="id_mostrar" msprop:Generator_ColumnVarNameInTable="columnid_mostrar" msprop:Generator_ColumnPropNameInRow="id_mostrar" msprop:Generator_ColumnPropNameInTable="id_mostrarColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tipo" msprop:Generator_UserColumnName="tipo" msprop:Generator_ColumnVarNameInTable="columntipo" msprop:Generator_ColumnPropNameInRow="tipo" msprop:Generator_ColumnPropNameInTable="tipoColumn" type="xs:unsignedByte" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MensajesTransmitidos" msprop:Generator_UserTableName="MensajesTransmitidos" msprop:Generator_RowDeletedName="MensajesTransmitidosRowDeleted" msprop:Generator_RowChangedName="MensajesTransmitidosRowChanged" msprop:Generator_RowClassName="MensajesTransmitidosRow" msprop:Generator_RowChangingName="MensajesTransmitidosRowChanging" msprop:Generator_RowEvArgName="MensajesTransmitidosRowChangeEvent" msprop:Generator_RowEvHandlerName="MensajesTransmitidosRowChangeEventHandler" msprop:Generator_TableClassName="MensajesTransmitidosDataTable" msprop:Generator_TableVarName="tableMensajesTransmitidos" msprop:Generator_RowDeletingName="MensajesTransmitidosRowDeleting" msprop:Generator_TablePropName="MensajesTransmitidos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msprop:Generator_UserColumnName="id" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInTable="idColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="datos" msprop:Generator_UserColumnName="datos" msprop:Generator_ColumnPropNameInRow="datos" msprop:Generator_ColumnVarNameInTable="columndatos" msprop:Generator_ColumnPropNameInTable="datosColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="16" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tipo" msprop:Generator_UserColumnName="tipo" msprop:Generator_ColumnPropNameInRow="tipo" msprop:Generator_ColumnVarNameInTable="columntipo" msprop:Generator_ColumnPropNameInTable="tipoColumn" type="xs:unsignedByte" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MensajesExport" msprop:Generator_UserTableName="MensajesExport" msprop:Generator_RowDeletedName="MensajesExportRowDeleted" msprop:Generator_RowChangedName="MensajesExportRowChanged" msprop:Generator_RowClassName="MensajesExportRow" msprop:Generator_RowChangingName="MensajesExportRowChanging" msprop:Generator_RowEvArgName="MensajesExportRowChangeEvent" msprop:Generator_RowEvHandlerName="MensajesExportRowChangeEventHandler" msprop:Generator_TableClassName="MensajesExportDataTable" msprop:Generator_TableVarName="tableMensajesExport" msprop:Generator_RowDeletingName="MensajesExportRowDeleting" msprop:Generator_TablePropName="MensajesExport">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Param" msprop:Generator_UserColumnName="Param" msprop:Generator_ColumnVarNameInTable="columnParam" msprop:Generator_ColumnPropNameInRow="Param" msprop:Generator_ColumnPropNameInTable="ParamColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SPN" msprop:Generator_UserColumnName="SPN" msprop:Generator_ColumnVarNameInTable="columnSPN" msprop:Generator_ColumnPropNameInRow="SPN" msprop:Generator_ColumnPropNameInTable="SPNColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Valor" msprop:Generator_UserColumnName="Valor" msprop:Generator_ColumnVarNameInTable="columnValor" msprop:Generator_ColumnPropNameInRow="Valor" msprop:Generator_ColumnPropNameInTable="ValorColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Rango" msprop:Generator_UserColumnName="Rango" msprop:Generator_ColumnVarNameInTable="columnRango" msprop:Generator_ColumnPropNameInRow="Rango" msprop:Generator_ColumnPropNameInTable="RangoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Unidad" msprop:Generator_UserColumnName="Unidad" msprop:Generator_ColumnVarNameInTable="columnUnidad" msprop:Generator_ColumnPropNameInRow="Unidad" msprop:Generator_ColumnPropNameInTable="UnidadColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Tiempo" msprop:Generator_UserColumnName="Tiempo" msprop:Generator_ColumnPropNameInRow="Tiempo" msprop:Generator_ColumnVarNameInTable="columnTiempo" msprop:Generator_ColumnPropNameInTable="TiempoColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MensajesExport2" msprop:Generator_UserTableName="MensajesExport2" msprop:Generator_RowDeletedName="MensajesExport2RowDeleted" msprop:Generator_RowChangedName="MensajesExport2RowChanged" msprop:Generator_RowClassName="MensajesExport2Row" msprop:Generator_RowChangingName="MensajesExport2RowChanging" msprop:Generator_RowEvArgName="MensajesExport2RowChangeEvent" msprop:Generator_RowEvHandlerName="MensajesExport2RowChangeEventHandler" msprop:Generator_TableClassName="MensajesExport2DataTable" msprop:Generator_TableVarName="tableMensajesExport2" msprop:Generator_RowDeletingName="MensajesExport2RowDeleting" msprop:Generator_TablePropName="MensajesExport2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SPN" msprop:Generator_UserColumnName="SPN" msprop:Generator_ColumnVarNameInTable="columnSPN" msprop:Generator_ColumnPropNameInRow="SPN" msprop:Generator_ColumnPropNameInTable="SPNColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:mensajes" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+    <xs:unique name="MensajesTransmitidos_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MensajesTransmitidos" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,74 @@
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\CANMon.Form1.resources
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\CANMon.Properties.Resources.resources
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\CANMon.csproj.GenerateResource.Cache
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\bin\Release\CANMon.exe
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\bin\Release\CANMon.pdb
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\CANMon.exe
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\CANMon.pdb
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\CANMon.Fconfig.resources
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\CANMon.Form2.resources
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\CANMon.TransIns.resources
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\CANMon.TransPer.resources
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\CANMon.Form1.sma-NO.resources
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\bin\Release\config.xml
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\bin\Release\CANMon.exe.config
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\bin\Release\sma-NO\CANMon.resources.dll
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\bin\Release\Interop.ADODB.dll
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\bin\Release\Interop.Excel.dll
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\bin\Release\Interop.JRO.dll
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\Interop.ADODB.dll
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\Interop.Excel.dll
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\Interop.JRO.dll
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\CANMon.csproj.ResolveComReference.cache
+C:\Documents and Settings\fernando\Mis documentos\Visual Studio 2008\Projects\CANMon\CANMon\obj\Release\sma-NO\CANMon.resources.dll
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\bin\Release\CANMon.exe.config
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\Interop.ADODB.dll
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\Interop.Excel.dll
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\Interop.JRO.dll
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\CANMon.csproj.ResolveComReference.cache
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\CANMon.exe
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\CANMon.pdb
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\Interop.ADODB.dll
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\Interop.Excel.dll
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\Interop.JRO.dll
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.csproj.ResolveComReference.cache
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.Fconfig.resources
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.Form1.resources
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.Form2.resources
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.Properties.Resources.resources
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.TransIns.resources
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.TransPer.resources
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.Form1.sma-NO.resources
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.exe
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\CANMon.Fconfig.resources
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\CANMon.Form1.resources
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\CANMon.Form2.resources
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\CANMon.Properties.Resources.resources
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\CANMon.TransIns.resources
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\CANMon.TransPer.resources
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\CANMon.Form1.sma-NO.resources
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\CANMon.csproj.GenerateResource.Cache
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\bin\Release\config.xml
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\bin\Release\decodificaion mensajes j1939.mdb
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\bin\Release\CANMon.exe
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\bin\Release\CANMon.pdb
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\bin\Release\sma-NO\CANMon.resources.dll
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\bin\Release\Interop.ADODB.dll
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\bin\Release\Interop.Excel.dll
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\bin\Release\Interop.JRO.dll
+C:\Documents and Settings\max\Escritorio\CANMon\CANMon\obj\Release\sma-NO\CANMon.resources.dll
+C:\Users\Sergio\Desktop\CANMon\CANMon\bin\Release\CANMon.exe.config
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.pdb
+C:\Users\Sergio\Desktop\CANMon\CANMon\bin\Release\decodificaion mensajes j1939.mdb
+C:\Users\Sergio\Desktop\CANMon\CANMon\bin\Release\CANMon.exe
+C:\Users\Sergio\Desktop\CANMon\CANMon\bin\Release\CANMon.pdb
+C:\Users\Sergio\Desktop\CANMon\CANMon\bin\Release\sma-NO\CANMon.resources.dll
+C:\Users\Sergio\Desktop\CANMon\CANMon\bin\Release\Interop.ADODB.dll
+C:\Users\Sergio\Desktop\CANMon\CANMon\bin\Release\Interop.Excel.dll
+C:\Users\Sergio\Desktop\CANMon\CANMon\bin\Release\Interop.JRO.dll
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\sma-NO\CANMon.resources.dll
+C:\Users\Sergio\Desktop\CANMon\CANMon\obj\Release\CANMon.ItemDatos.resources
